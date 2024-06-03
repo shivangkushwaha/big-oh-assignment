@@ -13,7 +13,7 @@ A Node.js application for dynamic form handling with Sequelize and MySQL.
 
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone git@github.com:shivangkushwaha/big-oh-assignment.git
    cd form-app
    ```
 
